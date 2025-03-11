@@ -1,0 +1,19 @@
+{"root": {
+    "person": [
+        {
+            "name": "John Doe",
+            "age": 30,
+            "email": "john.doe@example.com"
+        },
+        {
+            "name": "Jane Smith",
+            "age": 25,
+            "email": "jane.smith@example.com"
+        }
+    ],
+    "book": {
+        "year": 2022,
+        "author": "Robert Johnson",
+        "title": "The Adventure Begins"
+    }
+}}
